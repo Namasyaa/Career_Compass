@@ -21,6 +21,3 @@ gunicorn
 
 python-decouple
 
-plotly
-requests
-
